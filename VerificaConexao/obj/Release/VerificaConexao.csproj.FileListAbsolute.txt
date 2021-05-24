@@ -1,0 +1,13 @@
+C:\Users\MCO\Desktop\VerificaConexao\VerificaConexao\bin\Release\VerificaConexao.exe.config
+C:\Users\MCO\Desktop\VerificaConexao\VerificaConexao\bin\Release\VerificaConexao.exe
+C:\Users\MCO\Desktop\VerificaConexao\VerificaConexao\bin\Release\VerificaConexao.pdb
+C:\Users\MCO\Desktop\VerificaConexao\VerificaConexao\obj\Release\VerificaConexao.csprojResolveAssemblyReference.cache
+C:\Users\MCO\Desktop\VerificaConexao\VerificaConexao\obj\Release\VerificaConexao.frmPrincipal.resources
+C:\Users\MCO\Desktop\VerificaConexao\VerificaConexao\obj\Release\VerificaConexao.Properties.Resources.resources
+C:\Users\MCO\Desktop\VerificaConexao\VerificaConexao\obj\Release\VerificaConexao.csproj.GenerateResource.Cache
+C:\Users\MCO\Desktop\VerificaConexao\VerificaConexao\obj\Release\VerificaConexao.exe
+C:\Users\MCO\Desktop\VerificaConexao\VerificaConexao\obj\Release\VerificaConexao.pdb
+C:\Users\MCO\Desktop\VerificaConexao\VerificaConexao\bin\Release\VerificaConexao.exe.manifest
+C:\Users\MCO\Desktop\VerificaConexao\VerificaConexao\bin\Release\VerificaConexao.application
+C:\Users\MCO\Desktop\VerificaConexao\VerificaConexao\obj\Release\VerificaConexao.exe.manifest
+C:\Users\MCO\Desktop\VerificaConexao\VerificaConexao\obj\Release\VerificaConexao.application

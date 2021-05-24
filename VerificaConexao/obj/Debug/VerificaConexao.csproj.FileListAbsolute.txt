@@ -1,0 +1,52 @@
+C:\Users\MCO\Desktop\VerificaConexao\VerificaConexao\bin\Debug\VerificaConexao.exe.config
+C:\Users\MCO\Desktop\VerificaConexao\VerificaConexao\bin\Debug\VerificaConexao.exe.manifest
+C:\Users\MCO\Desktop\VerificaConexao\VerificaConexao\bin\Debug\VerificaConexao.application
+C:\Users\MCO\Desktop\VerificaConexao\VerificaConexao\bin\Debug\VerificaConexao.exe
+C:\Users\MCO\Desktop\VerificaConexao\VerificaConexao\bin\Debug\VerificaConexao.pdb
+C:\Users\MCO\Desktop\VerificaConexao\VerificaConexao\obj\Debug\VerificaConexao.frmPrincipal.resources
+C:\Users\MCO\Desktop\VerificaConexao\VerificaConexao\obj\Debug\VerificaConexao.Properties.Resources.resources
+C:\Users\MCO\Desktop\VerificaConexao\VerificaConexao\obj\Debug\VerificaConexao.csproj.GenerateResource.Cache
+C:\Users\MCO\Desktop\VerificaConexao\VerificaConexao\obj\Debug\VerificaConexao.exe.manifest
+C:\Users\MCO\Desktop\VerificaConexao\VerificaConexao\obj\Debug\VerificaConexao.application
+C:\Users\MCO\Desktop\VerificaConexao\VerificaConexao\obj\Debug\VerificaConexao.exe
+C:\Users\MCO\Desktop\VerificaConexao\VerificaConexao\obj\Debug\VerificaConexao.pdb
+C:\Users\Marcelo\Desktop\Edson\VerificaConexao - 2020-10-19\VerificaConexao\bin\Debug\VerificaConexao.exe.config
+C:\Users\Marcelo\Desktop\Edson\VerificaConexao - 2020-10-19\VerificaConexao\obj\Debug\VerificaConexao.exe
+C:\Users\Marcelo\Desktop\Edson\VerificaConexao - 2020-10-19\VerificaConexao\obj\Debug\VerificaConexao.pdb
+C:\Users\Marcelo\Desktop\Edson\VerificaConexao - 2020-10-19\VerificaConexao\bin\Debug\VerificaConexao.exe.manifest
+C:\Users\Marcelo\Desktop\Edson\VerificaConexao - 2020-10-19\VerificaConexao\bin\Debug\VerificaConexao.application
+C:\Users\Marcelo\Desktop\Edson\VerificaConexao - 2020-10-19\VerificaConexao\bin\Debug\VerificaConexao.exe
+C:\Users\Marcelo\Desktop\Edson\VerificaConexao - 2020-10-19\VerificaConexao\bin\Debug\VerificaConexao.pdb
+C:\Users\Marcelo\Desktop\Edson\VerificaConexao - 2020-10-19\VerificaConexao\obj\Debug\VerificaConexao.csprojResolveAssemblyReference.cache
+C:\Users\Marcelo\Desktop\Edson\VerificaConexao - 2020-10-19\VerificaConexao\obj\Debug\VerificaConexao.frmPrincipal.resources
+C:\Users\Marcelo\Desktop\Edson\VerificaConexao - 2020-10-19\VerificaConexao\obj\Debug\VerificaConexao.Properties.Resources.resources
+C:\Users\Marcelo\Desktop\Edson\VerificaConexao - 2020-10-19\VerificaConexao\obj\Debug\VerificaConexao.csproj.GenerateResource.Cache
+C:\Users\Marcelo\Desktop\Edson\VerificaConexao - 2020-10-19\VerificaConexao\obj\Debug\VerificaConexao.exe.manifest
+C:\Users\Marcelo\Desktop\Edson\VerificaConexao - 2020-10-19\VerificaConexao\obj\Debug\VerificaConexao.application
+C:\Users\Marcelo\Desktop\Edson\VerificaConexao\VerificaConexao\bin\Debug\VerificaConexao.exe.config
+C:\Users\Marcelo\Desktop\Edson\VerificaConexao\VerificaConexao\obj\Debug\VerificaConexao.exe
+C:\Users\Marcelo\Desktop\Edson\VerificaConexao\VerificaConexao\obj\Debug\VerificaConexao.pdb
+C:\Users\Marcelo\Desktop\Edson\VerificaConexao\VerificaConexao\bin\Debug\VerificaConexao.exe.manifest
+C:\Users\Marcelo\Desktop\Edson\VerificaConexao\VerificaConexao\bin\Debug\VerificaConexao.application
+C:\Users\Marcelo\Desktop\Edson\VerificaConexao\VerificaConexao\bin\Debug\VerificaConexao.exe
+C:\Users\Marcelo\Desktop\Edson\VerificaConexao\VerificaConexao\bin\Debug\VerificaConexao.pdb
+C:\Users\Marcelo\Desktop\Edson\VerificaConexao\VerificaConexao\obj\Debug\VerificaConexao.csprojResolveAssemblyReference.cache
+C:\Users\Marcelo\Desktop\Edson\VerificaConexao\VerificaConexao\obj\Debug\VerificaConexao.Properties.Resources.resources
+C:\Users\Marcelo\Desktop\Edson\VerificaConexao\VerificaConexao\obj\Debug\VerificaConexao.csproj.GenerateResource.Cache
+C:\Users\Marcelo\Desktop\Edson\VerificaConexao\VerificaConexao\obj\Debug\VerificaConexao.exe.manifest
+C:\Users\Marcelo\Desktop\Edson\VerificaConexao\VerificaConexao\obj\Debug\VerificaConexao.application
+C:\Users\Marcelo\Desktop\Edson\VerificaConexao\VerificaConexao\obj\Debug\VerificaConexao.Form1.resources
+C:\Users\Edson-PC\Desktop\Edson\VerificaConexao\VerificaConexao\obj\Debug\VerificaConexao.csprojAssemblyReference.cache
+C:\Users\Edson-PC\Desktop\Edson\VerificaConexao\VerificaConexao\obj\Debug\VerificaConexao.Form1.resources
+C:\Users\Edson-PC\Desktop\Edson\VerificaConexao\VerificaConexao\obj\Debug\VerificaConexao.Properties.Resources.resources
+C:\Users\Edson-PC\Desktop\Edson\VerificaConexao\VerificaConexao\obj\Debug\VerificaConexao.csproj.GenerateResource.cache
+C:\Users\Edson-PC\Desktop\Edson\VerificaConexao\VerificaConexao\obj\Debug\VerificaConexao.csproj.CoreCompileInputs.cache
+C:\Users\Edson-PC\Desktop\Edson\VerificaConexao\VerificaConexao\obj\Debug\VerificaConexao.exe
+C:\Users\Edson-PC\Desktop\Edson\VerificaConexao\VerificaConexao\obj\Debug\VerificaConexao.pdb
+C:\Users\Edson-PC\Desktop\Edson\VerificaConexao\VerificaConexao\bin\Debug\VerificaConexao.exe.config
+C:\Users\Edson-PC\Desktop\Edson\VerificaConexao\VerificaConexao\bin\Debug\VerificaConexao.exe.manifest
+C:\Users\Edson-PC\Desktop\Edson\VerificaConexao\VerificaConexao\bin\Debug\VerificaConexao.application
+C:\Users\Edson-PC\Desktop\Edson\VerificaConexao\VerificaConexao\bin\Debug\VerificaConexao.exe
+C:\Users\Edson-PC\Desktop\Edson\VerificaConexao\VerificaConexao\bin\Debug\VerificaConexao.pdb
+C:\Users\Edson-PC\Desktop\Edson\VerificaConexao\VerificaConexao\obj\Debug\VerificaConexao.exe.manifest
+C:\Users\Edson-PC\Desktop\Edson\VerificaConexao\VerificaConexao\obj\Debug\VerificaConexao.application
